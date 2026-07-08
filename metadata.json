@@ -1,0 +1,6 @@
+{
+  "name": "Weather Soundtrack Generator",
+  "description": "Enter your city to get a customized, AI-powered music playlist synced to your current sky conditions and local atmosphere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
